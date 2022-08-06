@@ -1,2 +1,0 @@
-# courseratestkleintrigger
-Coursera test repository 
